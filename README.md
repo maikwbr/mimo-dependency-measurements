@@ -31,7 +31,7 @@ You can use services like [CodeOcean](https://codeocean.com) or
 to run the scripts online.
 
 ### Local Installation
-If you want to run it locally on your machine, Python3 and Jupyter are needed.
+If you want to run it locally on your machine, Python3 and some libraries are needed.
 The present code was developed and tested with the following versions:
 
 - Python 3.12
