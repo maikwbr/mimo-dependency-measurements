@@ -1,0 +1,6 @@
+flatdict
+matplotlib
+numpy
+pandas
+rearrangement-algorithm
+scipy
