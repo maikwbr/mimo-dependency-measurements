@@ -2,11 +2,13 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maikwbr/mimo-dependency-measurements/HEAD)
 ![GitHub](https://img.shields.io/github/license/maikwbr/mimo-dependency-measurements)
+[![DOI](https://img.shields.io/badge/doi-10.1109/ISWCS61526.2024.10639145-informational)](https://doi.org/10.1109/ISWCS61526.2024.10639145)
 
 
 This repository is accompanying the paper "On Massive Antenna Channel Models
 with Dependent Fading: Theory and Experiments" (E. Jorswieck, M. Weber, P.
-Schlegel, and K.-L. Besser, ISWCS 2024, Jul. 2024).
+Schlegel, and K.-L. Besser, ISWCS 2024, Jul. 2024.
+[doi:10.1109/ISWCS61526.2024.10639145](https://doi.org/10.1109/ISWCS61526.2024.10639145)).
 
 The idea is to give an interactive version of the calculations and presented
 concepts to the reader. All measurement data and scripts to reproduce the
@@ -71,10 +73,11 @@ You can use the following BibTeX entry
 @inproceedings{Jorswieck2024iswcs,
   author = {Jorswieck, Eduard A. and Weber, Maik and Schlegel, Peter and Besser, Karl-Ludwig},
   title = {On Massive Antenna Channel Models with Dependent Fading: Theory and Experiments},
-  booktitle = {19th International Symposium on Wireless Communication Systems (ISWCS)},
+  booktitle = {2024 19th International Symposium on Wireless Communication Systems (ISWCS)},
   year = {2024},
   month = {7},
   publisher = {IEEE},
   venue = {Rio de Janeiro, Brazil},
+  doi = {10.1109/ISWCS61526.2024.10639145},
 }
 ```
